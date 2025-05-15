@@ -8,6 +8,19 @@ Based on the study [Unauthorized Google Maps API Key Usage Cases, and Why You Ne
 
 ![](img/img001.png)
 
+## INSTALLATION
+
+* Ensure [Go (Golang)](https://golang.org/doc/install) is installed and properly configured in your environment.
+
+```bash
+# Clone the Repository
+$ git clone https://github.com/joanbono/gap.git
+$ cd gap
+
+# Install Dependencies
+$ go mod tidy
+```
+
 ## USAGE
 
 ```py
